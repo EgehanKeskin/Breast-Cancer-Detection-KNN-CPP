@@ -1,4 +1,4 @@
-# 🩺 Breast Cancer Detection - KNN Implementation in C++
+#  Breast Cancer Detection - KNN Implementation in C++
 
 This project is a **Machine Learning** application that classifies breast cancer tumors based on clinical features. It is implemented from scratch using standard **C++**, without relying on external ML libraries like scikit-learn.
 
@@ -9,7 +9,7 @@ The algorithm processes the `Wisconsin Breast Cancer Dataset` containing 569 pat
 * **Distance Metric:** Euclidean Distance
 * **Accuracy:** 94.72%
 
-## 🚀 Technical Implementation
+##  Technical Implementation
 The project demonstrates core software engineering and data science principles:
 
 * **Data Structures:** Used `struct` for data encapsulation and `std::vector` for dynamic memory management.
@@ -18,7 +18,7 @@ The project demonstrates core software engineering and data science principles:
 
 
 
-## 📈 Performance Results
+##  Performance Results
 The model was tested against the entire dataset to evaluate its predictive power:
 
 | Parameter | Value |
@@ -30,7 +30,7 @@ The model was tested against the entire dataset to evaluate its predictive power
 
 
 
-## 🛠️ How to Run
+##  How to Run
 1. Ensure `main.cpp` and `data.csv` are in the same directory.
 2. Compile using a C++ compiler (Visual Studio, GCC, Clang).
 3. Run the executable; the analysis and accuracy report will be displayed in the console.
